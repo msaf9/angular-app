@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+/* Import the Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* Apply Open Sans font to body */
+body {
+    background-color: #F0F0F0;
+    /* Use Open Sans as the primary font */
+    font-family: 'Open Sans', sans-serif;
+}
