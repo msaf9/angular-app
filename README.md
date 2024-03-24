@@ -1,6 +1,17 @@
-# AngularApp
+<h1>Portfolio</h1>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+
+<!-- TOC -->
+
+- [Development server](#development-server)
+- [Code scaffolding](#code-scaffolding)
+- [Build](#build)
+- [Running unit tests](#running-unit-tests)
+- [Running end-to-end tests](#running-end-to-end-tests)
+- [Further help](#further-help)
+
+<!-- /TOC -->
 
 ## Development server
 
