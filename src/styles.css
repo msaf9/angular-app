@@ -4,7 +4,8 @@
 
 /* Apply Open Sans font to body */
 body {
-    background-color: #F0F0F0;
+    background-color: #121212;
+    color: #FFFFFF;
     /* Use Open Sans as the primary font */
     font-family: 'Open Sans', sans-serif;
 }
